@@ -74,6 +74,10 @@ body {
   width: 100%;
 }
 
+.block__lower__child__heading {
+  font-size: 1.2rem;
+}
+
 .block__lower__child__img {
   align-self: flex-end;
   margin-top: 30px;
@@ -81,21 +85,22 @@ body {
 
 .block__lower__child__text {
   color: #A3A5AE;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+  margin-top: 5px;
 }
 
 .child--supervisor {
-  border-top: solid 5px #45D3D3;
+  border-top: solid 3px #45D3D3;
 }
 
 .child--team-builder {
-  border-top: solid 5px #EA5353;
+  border-top: solid 3px #EA5353;
 }
 
 .child--karma {
-  border-top: solid 5px #FCAF4A;
+  border-top: solid 3px #FCAF4A;
 }
 
 .child--calculator {
-  border-top: solid 5px #549EF2;
+  border-top: solid 3px #549EF2;
 }
