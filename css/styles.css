@@ -70,12 +70,12 @@ body {
   margin-bottom: 20px;
   border-radius: 5px;
   padding: 20px 30px;
-  line-height: 1.7;
+  line-height: 1.8;
   width: 100%;
 }
 
 .block__lower__child__heading {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 .block__lower__child__img {
@@ -87,20 +87,21 @@ body {
   color: #A3A5AE;
   font-size: 0.8rem;
   margin-top: 5px;
+  padding-right: 40px;
 }
 
 .child--supervisor {
-  border-top: solid 3px #45D3D3;
+  border-top: solid 4px #45D3D3;
 }
 
 .child--team-builder {
-  border-top: solid 3px #EA5353;
+  border-top: solid 4px #EA5353;
 }
 
 .child--karma {
-  border-top: solid 3px #FCAF4A;
+  border-top: solid 4px #FCAF4A;
 }
 
 .child--calculator {
-  border-top: solid 3px #549EF2;
+  border-top: solid 4px #549EF2;
 }
