@@ -1,6 +1,7 @@
 @media only screen and (min-width: 1024px) {
   body {
     padding: 0;
+    margin-top: 50px;
   }
 
   .block__upper {
@@ -21,6 +22,10 @@
   .block__lower__child {
     width: 31%;
     padding: 30px;
+  }
+
+  .block__lower__child__text {
+    padding-right: 40px;
   }
 
   .block__lower__child--twin {
