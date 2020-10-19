@@ -5,7 +5,7 @@
   }
 
   .block__upper {
-    width: 37%;
+    width: 45%;
   }
 
   .block__upper__header--nobold,
@@ -44,6 +44,10 @@
 }
 
 @media only screen and (min-width: 1200px) {
+  .block__upper {
+    width: 40%;
+  }
+
   .block__lower__child {
     width: 360px;
   }
